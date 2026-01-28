@@ -18,9 +18,13 @@
   --global-color-accent-700: #003285;
   --global-color-accent-800: #002465;
   --global-color-accent-900: #00123b;
+  --global-color-button-bg: #005bd4;
+  --global-color-button-fg: #edf6ff;
   --global-space-small: 4;
   --global-space-regular: 8;
   --global-space-large: 12;
+  --global-space-button-padding: 12;
+  --global-space-button-gap: 4;
   --global-font-size-small: 12;
   --global-font-size-regular: 16;
   --global-font-size-large: 20;
