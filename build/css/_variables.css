@@ -1,0 +1,27 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --global-color-accent-50: #edf6ff;
+  --global-color-accent-100: #e7f3ff;
+  --global-color-accent-150: #c8e5ff;
+  --global-color-accent-200: #9dd0ff;
+  --global-color-accent-250: #79bcff;
+  --global-color-accent-300: #56a7ff;
+  --global-color-accent-350: #3392ff;
+  --global-color-accent-400: #087dff;
+  --global-color-accent-450: #006bed;
+  --global-color-accent-500: #005bd4;
+  --global-color-accent-550: #004dba;
+  --global-color-accent-600: #003fa0;
+  --global-color-accent-700: #003285;
+  --global-color-accent-800: #002465;
+  --global-color-accent-900: #00123b;
+  --global-space-small: 4;
+  --global-space-regular: 8;
+  --global-space-large: 12;
+  --global-font-size-small: 12;
+  --global-font-size-regular: 16;
+  --global-font-size-large: 20;
+}
