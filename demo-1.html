@@ -1,7 +1,10 @@
-/**
- * Do not edit directly, this file was auto-generated.
- */
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button with CSS Variables</title>
+    <style>
 :root {
   --global-color-palette-gray-0: #ffffff;
   --global-color-palette-gray-50: #f6f6f6;
@@ -259,4 +262,20 @@
   --global-font-size-medium: 20;
   --global-font-size-large: 24;
   --global-font-size-x-large: 28;
-}
+
+        .button {
+            display: inline-flex;
+            align-items: center;
+            background-color: var(--global-color-palette-blue-500);
+            color: var(--global-color-palette-gray-0);
+            font-size: calc(var(--global-font-size-regular) * 1px);
+            border-radius: calc(var(--global-border-radius-3x-small) * 1px);
+            padding: calc(var(--global-spacing-x-small) * 1px);
+            gap: calc(var(--global-spacing-5x-small) * 1px);
+        }
+    </style>
+</head>
+<body>
+    <button class="button">Click Me</button>
+</body>
+</html>
